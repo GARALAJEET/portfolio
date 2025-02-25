@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
             description: 'The StudPal UI will feature a simple and intuitive design focused on student productivity. It will provide easy navigation for managing daily schedules, tracking finances, and organizing academic tasks. The interface will include a dashboard displaying upcoming classes, reminders, and wallet balance. A minimalistic yet effective layout will ensure smooth user interaction, with essential features accessible through a structured menu.',
             // technologies: ['Spring boot', 'Hibernate', 'Mysql'],
         
-            githubLink: 'https://github.com/GARALAJEET/Studpal-UI.githttps://github.com/GARALAJEET/Studpal-UI.git'
+            githubLink: 'https://garalajeet.github.io/Studpal-1.0/'
         },
         {
             title: 'tech Burger',
