@@ -24,7 +24,7 @@
     const cvDownload = document.getElementById('cv-download');
     const githubLink = document.getElementById('github-link');
 
-    cvDownload.href = 'pro.pdf';
+    // cvDownload.href = 'pro.pdf';
     githubLink.href = 'https://github.com/yourusername';
 
     
