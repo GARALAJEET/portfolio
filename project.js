@@ -30,6 +30,12 @@ document.addEventListener('DOMContentLoaded', () => {
             description: 'Tech Burger offers a seamless online ordering experience with a simple and interactive UI. Customers can browse the menu, customize their orders, and check out effortlessly. Shop owners can manage orders through a secure login system. The website ensures smooth navigation, clear categorization of burgers, sides, and drinks, and highlights special combo offers for an engaging user experience.',
         
             githubLink: 'https://garalajeet.github.io/tech-burger/'
+        },
+        {
+            title: 'authSystem',
+            description: 'AuthSystem is a user authentication system built with Spring Boot (Backend), MySQL (Database), and HTML, CSS, JavaScript (Frontend). It supports user registration, login, password validation, and email verification. The backend ensures data security using DTO, Validator, and JavaMailSender, while MySQL stores user credentials. Future enhancements include 2FA and OAuth login.',
+
+            githubLink: 'https://github.com/GARALAJEET/authSystem.git'
         }
     ];
 
