@@ -2,9 +2,9 @@ document.addEventListener('DOMContentLoaded', () => {
     const projectsContainer = document.querySelector('.projects-container');
     const projects = [
         {
-            title: ' 2 in 1 ',
-            description: 'This Java project manages user registration, login, and game participation with a coin-based system. It includes "Guess the Number" and "Rock, Paper, Scissors," where players earn or lose coins based on performance, enhancing engagement.',
-            githubLink: 'https://github.com/GARALAJEET/2in1-Game.git'
+            title: ' Tech Burger  CLI ',
+            description: 'Tech Burger is a Python-based restaurant management system with MySQL for data storage. Customers can view the menu, place, and cancel orders, while shop owners manage menu items and orders. It features login authentication, order tracking, and future plans for a GUI. Install dependencies, configure the database, and run the application easily.',
+            githubLink: 'https://github.com/GARALAJEET/tech-burger.py.git'
         },
         {
             title: 'Studpal CLI',
